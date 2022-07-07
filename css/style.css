@@ -34,6 +34,11 @@
     transform: scale(1.5);
  }
  
+ .col-md-6{
+   flex-basis: 50%;
+   max-width: 50%;
+ }
+ 
 
  .justify-content-center{
    margin-bottom: 47px;
